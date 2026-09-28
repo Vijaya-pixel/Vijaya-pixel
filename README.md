@@ -1,11 +1,11 @@
-<h1 align="center">Hi, this is Vijaya Yeddu 👋</h1>
-<p align="center">
-  <b>Backend for AI agents & assistive tech 👾</b><br/>
-  MCP servers · agent tool interfaces · gaze tracking · blink detection · text-to-speech
-</p>
+> whoami
+vijaya yeddu
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vijaya-yeddu-2a037434a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+> cat profile.txt
+role       backend for ai agents & assistive tech
+ships      mcp servers · agent tool interfaces
+explores   gaze tracking · blink detection · text-to-speech
+fluent in  prompt engineering · responsible ai · threat detection
+
+> ls projects/
+helios  tacit  nyx-ai  protoyota
