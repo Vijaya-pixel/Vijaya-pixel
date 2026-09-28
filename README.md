@@ -13,5 +13,6 @@ and text-to-speech.
 prev student software developer @ acm projects
 
 > ls projects/ --pinned
+helios  tacit  nyxai  protoyota 
 
 ```
