@@ -10,7 +10,7 @@ works on multimodal input via gaze estimation, blink detection
 and text-to-speech.
 
 > cat history.txt
-previously student software developer @ acm projects
+prev student software developer @ acm projects
 
 > ls projects/
 helios  tacit  nyxai  protoyota
