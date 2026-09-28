@@ -12,6 +12,6 @@ and text-to-speech.
 > cat history.txt
 prev student software developer @ acm projects
 
-> ls projects/
-helios  tacit  nyxai  protoyota
+> ls projects/ --pinned
+helios  tacit  nyxai  protoyota 
 ```
