@@ -13,5 +13,5 @@ and text-to-speech.
 previously student software developer
 
 > ls projects/
-helios  tacit  nyx-ai  protoyota
+helios  tacit  nyxai  protoyota
 ```
