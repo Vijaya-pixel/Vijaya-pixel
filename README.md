@@ -3,13 +3,12 @@
 vijaya yeddu
 
 > cat profile.txt
-role       backend for ai agents & assistive tech
-ships      mcp servers · agent tool interfaces
-explores   gaze tracking · blink detection · text-to-speech
-fluent in  prompt engineering · responsible ai · threat detection
+backend-first ai engineer building agentic infrastructure: mcp servers
+with intent-aware tool schemas, llm pipelines for conversational
+recommenders, and multimodal input via gaze estimation, blink detection
+and text-to-speech. grounded in prompt engineering, responsible ai and
+threat-aware design.
 
 > ls projects/
 helios  tacit  nyx-ai  protoyota
 ```
-
-[linkedin](https://www.linkedin.com/in/vijaya-yeddu-2a037434a)
